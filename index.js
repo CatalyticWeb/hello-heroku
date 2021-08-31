@@ -7,8 +7,6 @@ app.get('/', function(req, res){
 
 });
 
-app.listen(process.env.PORT || 3000);
-
 app.get('/about', function(req, res){
 
     res.sendFile('/README.md', {root: __dirname });
