@@ -27,9 +27,9 @@
 
 ___________________________________________________________________________________________________________________________________________
 
-> * []  open **vsCode**
+> * [ ]  open **vsCode**
 > * [ ]  open **terminal** `ctrl+~`
->   * []  check if **git bash** is default (`ctrl+shift+p` to open **cmd pallete**: "select default..." choose "git bash"
+>   * [ ]  check if **git bash** is default (`ctrl+shift+p` to open **cmd pallete**: "select default..." choose "git bash"
 > * [ ]  navigate to your workspace, e.g.: `cd Desktop`
 > * [ ]  make your **project root diretory**: `mkdir my-super-awesome-project-name`
 > * [ ]  navigate to the new dir/: `cd my-super-awesome-project-name`
