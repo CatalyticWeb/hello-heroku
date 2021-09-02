@@ -35,6 +35,7 @@ ________________________________________________________________________________
 > * [ ]  navigate to the new dir/: `cd my-super-awesome-project-name`
 > * [ ]  open up the **project root** in **vsCode**: use the gui...wish I knew the cmd,
 >   it's something like: `open -a 'visual studio code' my-super-awesome-project-name`
+> * [ ]  check to make sure **Node.js** is installed: `$:` `node.js -v`
 > * [ ]  initialize a **Node.js** project: `$:` `npm init -y`
 > * [ ]  install **express.js**: `$:` `install i express --save`
 > * [ ]  create a new file `$:` `touch index.js`
