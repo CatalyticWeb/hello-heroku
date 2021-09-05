@@ -36,3 +36,4 @@ ________________________________________________________________________________
   - Code can also be found in the web app page.
 - In order to expand upon this, you as a user could update the code in this repository (which would then also update the code on the live heroku URL) and add more lines of HTML, or link to a different file all together an that would be displayed instead of the HTML of the Sample page.
   - The section of code that would change what gets displayed on the web page is found in this line of index.js: `res.send('<h1>YOUR CODE HERE UPDATES THE PAGE</h1><p>by Harrison</p><p1><a href=https://github.com/CatalyticWeb/hello-heroku>Code available here<a/></p1>');`
+-This code can be edited and committed (saved) right in GitHub to see results on the live URL page.
