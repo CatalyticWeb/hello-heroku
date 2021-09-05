@@ -34,3 +34,5 @@ ________________________________________________________________________________
   - You can then see the app working.
 - The code for updating the information available on this web app, can be found [here](https://github.com/CatalyticWeb/hello-heroku).
   - Code can also be found in the web app page.
+- In order to expand upon this, you as a user could update the code in this repository (which would then also update the code on the live heroku URL) and add more lines of HTML, or link to a different file all together an that would be displayed instead of the HTML of the Sample page.
+  - The section of code that would chaneg what gets displayed on the web page is found in this line: `res.send('<h1>YOUR CODE HERE UPDATES THE PAGE</h1><p>by Harrison</p><p1><a href=https://github.com/CatalyticWeb/hello-heroku>Code available here<a/></p1>');`
